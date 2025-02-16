@@ -12,4 +12,4 @@ Model evaluation using MAE, MSE, and RMSE
 
 Saving and loading trained models
 
-You can download the dataset from (here)([https://www.kaggle.com/datasets/govindaramsriram/sleep-time-prediction])
+You can download the dataset from here ([https://www.kaggle.com/datasets/govindaramsriram/sleep-time-prediction])
